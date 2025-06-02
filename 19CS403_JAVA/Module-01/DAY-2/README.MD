@@ -24,8 +24,8 @@ b)	If the condition is false, print "false" using the 'print' method of 'System.
  ```
 /*
 Program to implement a variable and operators using Java
-Developed by: Alluguri Srikrishna Teja
-RegisterNumber:  212222040006
+Developed by: Surendhar K
+RegisterNumber:  212222040166
 */
 ```
 

@@ -21,8 +21,8 @@ To Create a java program for map interface concept and follow the below conditio
  ```
 /*
 Program to implement a RELATED TO MAP CONCEPTS using Java
-Developed by: Alluguri Srikrishna Teja
-RegisterNumber:  212222040006
+Developed by: Surendhar K
+RegisterNumber:  212222040166
 */
 ```
 

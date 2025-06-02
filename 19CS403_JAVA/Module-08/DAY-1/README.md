@@ -17,8 +17,8 @@ To implement a Java Program to append a String "SAVEETHA ENGINEERING COLLEGE" in
  ```
 /*
 Program to implement a IO File Stream using Java
-Developed by: Alluguri Srikrishna Teja
-RegisterNumber: 212222040006
+Developed by: Surendhar K
+RegisterNumber:  212222040166
 */
 ```
 

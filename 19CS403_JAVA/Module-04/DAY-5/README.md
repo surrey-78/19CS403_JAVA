@@ -51,8 +51,8 @@ Call the getPrice() method in the main method of the Sample class  and store the
  ```
 /*
 Program to implement a Parameterized Constructor Using Java
-Developed by: Alluguri Srikrishna Teja
-RegisterNumber: 212222040006
+Developed by: Surendhar K
+RegisterNumber:  212222040166
 */
 ```
 

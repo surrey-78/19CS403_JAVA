@@ -22,8 +22,8 @@ To Develop a Java program to perform Multilevel Inheritance to calculate the are
  ```
 /*
 Program to implement a MultiLevel Inheritance using Java
-Developed by: Alluguri Srikrishna Teja
-RegisterNumber: 212222040006
+Developed by: Surendhar K
+RegisterNumber:  212222040166
 */
 ```
 

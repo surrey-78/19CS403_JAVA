@@ -14,8 +14,8 @@ d.	Print the entire TreeSet, which displays the elements in sorted order.
  ```
 /*
 Program to implement a HASHMAP
-Developed by: Alluguri Srikrishna Teja
-RegisterNumber: 212222040006
+Developed by: Surendhar K
+RegisterNumber:  212222040166
 */
 ```
 
